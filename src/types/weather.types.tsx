@@ -1,4 +1,4 @@
 export interface Iweather {
-  temperature: string
+  temperature: number
   location: string
 }
